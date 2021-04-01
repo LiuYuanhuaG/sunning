@@ -108,6 +108,10 @@ ul {
   position: absolute;
   top: .133333rem;
   left: .16rem;
+  width: 0.72rem;
+  height: 0.72rem;
+  background: url(../img/fangdajing.png) no-repeat;
+  background-size: 0.72rem auto;
 }
 .navflexd .main_top .navflexd-search a i img{
   width: .64rem;
